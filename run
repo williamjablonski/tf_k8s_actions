@@ -2,4 +2,8 @@
 
 
 ## comand line - RUN DB
+kubectl run --namespace mongodb mongobitnami-mongodb-client --rm --tty -i --restart='Never' --env="MONGODB_ROOT_PASSWORD=$MONGODB_ROOT_PASSWORD" --image docker.io/bitnami/mongodb:4.4.4-debian-10-r0 --command -- bash
+## get pod ip 
+$ip_mongo_pod= kubectl get pods,svc -o wide
+## comand line - RUN APP using ip from mongoPOD
 kubectl run avaliacao-infra --image=williamjablonski/avaliacao-infra:latest --port=27017
