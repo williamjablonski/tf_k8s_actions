@@ -31,8 +31,8 @@ resource "kubernetes_deployment" "example" {
 
       spec {
         container {
-          image = "nginx:latest"
-          name  = "nginx"
+          image = "williamjablonski/avaliacao-infra:latest"
+          name  = "avaliacao-infra"
 
           resources {
             limits = {
