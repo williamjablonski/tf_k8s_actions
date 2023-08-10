@@ -1,4 +1,4 @@
-# Automate Kubernetes Deployment using Terraform and Github Actions
+# Soft # Automate Kubernetes Deployment using Terraform and Github Actions
 
 
 ## Softdesign TASK 1
