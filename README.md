@@ -28,3 +28,5 @@ So it will run the below steps in the directory provided as input,
 - [Jobs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#jobs)
 - [Terraform Market place Action](https://github.com/marketplace/actions/hashicorp-setup-terraform)
 
+### Helper
+https://medium.com/@yogitakothadia/a-manifest-file-in-kubernetes-952183a508d4
