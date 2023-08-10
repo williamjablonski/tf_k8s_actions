@@ -1,1 +1,5 @@
-use github actions
+# using github actions
+
+
+## comand line - RUN DB
+kubectl run avaliacao-infra --image=williamjablonski/avaliacao-infra:latest --port=27017
