@@ -1,7 +1,7 @@
 # Automate Kubernetes Deployment using Terraform and Github Actions
 
 
-## TASK 1
+## Softdesign TASK 1
 Terraform code that will create a namespace and deploys the Nginx server in the minikube cluster and TF code verification and deployment has been automated using GitHub actions
 
 ## How I built
