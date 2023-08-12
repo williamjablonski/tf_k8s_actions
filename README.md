@@ -30,3 +30,11 @@ So it will run the below steps in the directory provided as input,
 
 ### Helper
 https://medium.com/@yogitakothadia/a-manifest-file-in-kubernetes-952183a508d4
+
+## Execution Log
+
+Pipeline
+![alt text](http://url/to/img.png)
+
+Log
+![alt text](http://url/to/img.png)
