@@ -1,4 +1,4 @@
-# Softdesing RS # 
+# Softdesign RS # 
 # Automate Kubernetes Deployment using Terraform and Github Actions
 
 
