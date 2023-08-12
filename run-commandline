@@ -6,4 +6,4 @@ kubectl run --namespace mongodb mongobitnami-mongodb-client --rm --tty -i --rest
 ## get pod ip 
 $ip_mongo_pod= kubectl get pods,svc -o wide
 ## comand line - RUN APP using ip from mongoPOD
-kubectl run avaliacao-infra --image=williamjablonski/avaliacao-infra:latest --port=27017 --env="MONGODB_URL=$ip_mongo_pod"
+kubectl run avaliacao-infra --image=williamjablonski/avaliacao-infra:latest --port=27017 --env="MONGO_URL='mongodb://'+$ip_mongo_pod"
