@@ -34,7 +34,7 @@ https://medium.com/@yogitakothadia/a-manifest-file-in-kubernetes-952183a508d4
 ## Execution Log
 
 Pipeline
-![alt text](http://url/to/img.png)
+![alt text](https://imagem.app/image/bmXHKm)
 
 Log
 ![alt text](http://url/to/img.png)
