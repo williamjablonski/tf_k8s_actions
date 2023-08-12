@@ -37,4 +37,4 @@ Pipeline
 ![alt text](https://imagem.app/image/bmXHKm)
 
 Log
-![alt text](http://url/to/img.png)
+![alt text](https://imagem.app/image/bmXSCX)
